@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1638658736 source:c:\avc\lab_3\main.cpp
-	<iostream>
-	<locale.h>
-	<bitset>
-
