@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638542077 source:c:\Учеба\АВС\lab_1\main.cpp
+	<cstddef>
+	<iostream>
+	<string>
+	<locale.h>
+
