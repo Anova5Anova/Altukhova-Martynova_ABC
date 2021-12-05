@@ -15,4 +15,4 @@
 <br>:seven:Использование структур и массивов
 
 ##
-![image](https://i.gifer.com/hq.gif)
+![image](https://tenor.com/wUEd.gif)
