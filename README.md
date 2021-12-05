@@ -14,5 +14,5 @@
 <br>:six:Работа с условными командами
 <br>:seven:Использование структур и массивов
 
-
-![image](https://i.gifer.com/ZVu.gif)
+##
+![image](https://i.gifer.com/hq.gif)
