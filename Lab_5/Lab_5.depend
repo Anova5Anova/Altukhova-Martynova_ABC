@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640086581 source:c:\avc\lab_5\cpp_source.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<locale.h>
+
