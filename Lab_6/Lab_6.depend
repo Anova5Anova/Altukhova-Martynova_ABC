@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1640076978 source:c:\avc\lab_6\assembler_source.s
+
+1640079120 source:c:\avc\lab_6\cpp_source.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<locale.h>
+
